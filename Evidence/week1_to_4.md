@@ -11,4 +11,4 @@
 
 ## E4: Portfolio Form – Draft Version
 ![draft](../screenshot/draft.jpeg)
-Note: Submitted to my guide in hardcopy; this is the digital draft used to prepare the submission.
+Note: Submitted to my guide the draft in hardcopy; this is the digital draft used to prepare the submission.
