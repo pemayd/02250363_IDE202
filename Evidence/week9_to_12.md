@@ -60,17 +60,12 @@ Note: Requests and responses I tested for the alumni role.
 
 Note: Requests and responses I tested for the staff role. I have not tested the other roles yet.
 
-## E13: Git – YouTube Tutorial and Branch Workflow
-![Git tutorial](../screenshot/gits_note.jpeg)
-
-Note: The tutorial I used to learn the basic Git workflow.
-
-## E14: Effective Communication – Certificate
+## E13: Effective Communication – Certificate
 ![Communication certificate](../screenshot/softskill_certificate.png)
 
 Note: Coursera Effective Communication Skills course. This shows course completion only.
 
-## E15: Effective Communication – My Notes
+## E14: Effective Communication – My Notes
 ![Communication notes](../screenshot/softskills.jpeg)
 
 Note: My notes on the five modules: foundations, active listening, verbal and non-verbal communication, the 7 Cs, and emotional intelligence.

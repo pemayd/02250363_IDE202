@@ -24,16 +24,21 @@ Note: My commits on the CST Alumni Portal repository, filtered by my name. Repos
 ## E5: Git and GitHub – Branches
 ![Branches](../screenshot/git.png)
 
+## E6: Git – YouTube Tutorial and Branch Workflow
+![Git tutorial](../screenshot/gits_note.jpeg)
+
+Note: The tutorial I used to learn the basic Git workflow.
+
 Note: Branches in the CST Alumni Portal repository.
 
-## E6: C Programming – Notebook Notes
+## E7: C Programming – Notebook Notes
 ![C notes](../screenshot/c_programming.jpeg)
 
 Note: Notes on functions, pointers and recursion made while reading the library books.
 
-## E16: C Programming – Handwritten Lab Practice
+## E8: C Programming – Handwritten Lab Practice
 ![C practice](../screenshot/c_practice.jpeg)
 
-## E7: C Programming – Library Books
+## E9: C Programming – Library Books
 
 Note: Books borrowed from the library: [The C Programming Language, by Brian W. Kernighan and Dennis M. Ritchie].
